@@ -16,5 +16,6 @@ else {
 
 	call_user_func(array($controller,$accion));
 }
+echo "Esta es la edicion #6";
 
 ?>
